@@ -1,0 +1,9 @@
+site-can-2025/
+│
+├── index.html        (Page 1 : Présentation)
+├── event.html        (Page 2 : Description CAN)
+├── programme.html    (Page 3 : Programme)
+├── infos.html        (Page 4 : Infos pratiques)
+├── inscription.html  (Page 5 : Formulaire)
+├── style.css         (Le fichier de style)
+└── images/           (Dossier vide pour tes images)
